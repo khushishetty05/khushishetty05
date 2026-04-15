@@ -50,11 +50,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=khushishetty05\&show_icons=true)
-
----
 
 ## 🎯 Current Focus
 
