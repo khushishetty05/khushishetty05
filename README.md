@@ -97,5 +97,6 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VIEWS&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=khushishetty05
+  &label=PROFILE+VIEWS&color=0e75b6&style=flat" />
 </p>
