@@ -1,13 +1,11 @@
 <div align="center">
-
-<!-- Typing SVG for animated name (static-looking but colorful) -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=42&pause=99999&color=00C9A7&center=true&vCenter=true&width=600&height=80&lines=KHUSHI+SHETTY" alt="Khushi Shetty" />
+<h1 align="center">KHUSHI SHETTY</h1> 
 
 <br/>
 
 🎓 **Computer Engineering Student** &nbsp;|&nbsp; 📍 Mumbai, India
 
-**Aspiring Data Analyst 
+Aspiring Data Analyst 
 
 <br/>
 
