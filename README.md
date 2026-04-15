@@ -1,118 +1,101 @@
-<div align="center">
-<h1 align="center" color=blue>KHUSHI SHETTY</h1> 
-
+<h1 align="center">KHUSHI SHETTY</h1>
 
 🎓 **Computer Engineering Student** &nbsp;|&nbsp; 📍 Mumbai, India
 
 📊Aspiring Data Analyst 
 
-<br/>
-
 ---
-
-</div>
 
 ## 🛠️ Technical Arsenal
 
-<div align="center">
-
 ### Core Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,mysql,html,css" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,html,css" />
 </p>
 
-### Tools & Frameworks
+### Frameworks & Infrastructure
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,spring" />
 </p>
-
-</div>
 
 ---
 
-## ✦ Featured Projects
+## 🌟 Featured Projects
 
-<div align="center">
-
-| 🌱 AgroSnap | 🌊 DeepSea eDNA |
-|:---:|:---:|
-| AI-powered crop diagnosis system | ML pipeline for biodiversity detection |
-| `Python` · `AI` | `Python` · `ML` |
-
-| 🍽️ FEFO Inventory | 📊 CuraSense |
-|:---:|:---:|
-| Smart inventory system with FEFO logic | End-to-end data analysis project |
-| `Java` · `Spring Boot` | `Python` |
-
-| 🤖 Axios Automated Network Intelligence | |
-|:---:|:---:|
-| Automated network intelligence system | |
-| `Python` | |
-
-</div>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <strong>🌱 AgroSnap</strong><br/>
+      AI platform for instant agricultural diagnostics<br/><br/>
+      <code>Python</code> &nbsp;•&nbsp; <code>AI</code>
+    </td>
+    <td align="center" width="50%">
+      <strong>🍽️ FEFO Inventory System</strong><br/>
+      Inventory management system with FEFO logic<br/><br/>
+      <code>Java</code> &nbsp;•&nbsp; <code>Spring Boot</code>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <strong>🌊 DeepSea eDNA Analysis</strong><br/>
+      ML pipeline for marine biodiversity detection<br/><br/>
+      <code>Python</code> &nbsp;•&nbsp; <code>ML</code>
+    </td>
+    <td align="center" width="50%">
+      <strong>📊 CuraSense</strong><br/>
+      Data analysis project for healthcare insights<br/><br/>
+      <code>Python</code> &nbsp;•&nbsp; <code>Data Analysis</code>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <strong>🤖 Axios Automated Network Intelligence</strong><br/>
+      Automated network intelligence system<br/><br/>
+      <code>Python</code> &nbsp;•&nbsp; <code>Automation</code>
+    </td>
+    <td align="center" width="50%">
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📊 Proficiency Overview
 
-<div align="center">
-
 | Domain | Focus Area |
-|:---|:---|
-| **Programming** | Python, Java |
-| **Data Analysis** | Pandas, NumPy |
-| **Databases** | SQL, MySQL |
-| **Visualization** | Excel, Power BI *(Learning)* |
-| **Version Control** | Git, GitHub |
-
-</div>
+|--------|------------|
+| Programming | Python, Java |
+| Data Analysis | Pandas, NumPy, SQL |
+| Databases | SQL, MySQL |
+| Web Dev | HTML, CSS |
+| Visualization | Excel, Power BI *(Learning)* |
 
 ---
 
-## 🌟 Project Highlights
+## 🎯 Current Focus
 
-- 🔬 Built **end-to-end data pipelines** for real-world ML tasks
-- 🌿 Applied **machine learning to environmental & agricultural datasets**
-- 📦 Designed **data-driven inventory decision systems**
-- 🔗 Worked with **APIs, databases, and analytical tools**
-
----
-
-## 🎯 Currently Exploring
-
-```
-📈  Data Analysis & Visualization
-🧠  Machine Learning & AI applications
-💼  Building a strong portfolio for Data Analyst internships
-```
+- Data Analysis & Visualization
+- Building strong portfolio projects
+- Preparing for Data Analyst internships
 
 ---
 
-## 🤝 Leadership & Community
+## 📬 Connect With Me
 
-- 📡 Active contributor to tech communities in Mumbai
-- 🌐 Passionate about open-source and collaborative learning
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khushi2005shetty@gmail.com)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khushi-shetty05/)
-
-</div>
+<p align="left">
+  <a href="mailto:khushi2005shetty@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/khushi-shetty05/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=khushishetty05&color=00C9A7&style=flat-square&label=PROFILE+VIEWS)
-
-*"Turning data into decisions, one project at a time."*
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VIEWS&color=0e75b6&style=flat" />
+</p>
