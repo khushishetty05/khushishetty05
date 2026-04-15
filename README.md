@@ -29,12 +29,15 @@
 
 ## 🌟 Featured Projects
 
-| Project                       | Description                                             | Tech              |
-| ----------------------------- | ------------------------------------------------------- | ----------------- |
-| 🌱 **AgroSnap**               | AI-based crop disease detection with real-time insights | Python, AI        |
-| 🍽️ **FEFO Inventory System** | Reduced food wastage using FEFO logic + analytics       | Java, Spring Boot |
-| 🌊 **DeepSea eDNA Analysis**  | Used VAE + clustering to detect unknown species         | Python, ML        |
-| 📊 **CuraSense**              | Data-focused analysis system                            | Python            |
+| 🌱 AgroSnap              | 🍽️ FEFO Inventory               |
+| ------------------------ | -------------------------------- |
+| AI crop diagnosis system | Inventory system with FEFO logic |
+| Python, AI               | Java, Spring Boot                |
+
+| 🌊 DeepSea eDNA               | 📊 CuraSense          |
+| ----------------------------- | --------------------- |
+| ML for biodiversity detection | Data analysis project |
+| Python, ML                    | Python                |
 
 ---
 
@@ -49,7 +52,7 @@
 
 ## 📈 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=khushishetty05\&show_icons=true)
 
 ---
 
@@ -63,7 +66,7 @@
 
 ## 📫 Connect
 
-* LinkedIn: [(add link)](https://www.linkedin.com/in/khushi-shetty05/)
+* LinkedIn: https://www.linkedin.com/in/khushi-shetty05/
 * Email: khushi2005shetty@gmail.com
 
 ---
