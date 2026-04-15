@@ -1,102 +1,121 @@
-<h1 align="center">KHUSHI SHETTY</h1> <p align="center"> 🎓 Computer Engineering @ NMIMS Mumbai </p> <p align="center"> Aspiring Data Analyst &nbsp;|&nbsp; AI/ML Enthusiast </p> 
+<div align="center">
+
+<!-- Typing SVG for animated name (static-looking but colorful) -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=42&pause=99999&color=00C9A7&center=true&vCenter=true&width=600&height=80&lines=KHUSHI+SHETTY" alt="Khushi Shetty" />
+
+<br/>
+
+🎓 **Computer Engineering Student** &nbsp;|&nbsp; 📍 Mumbai, India
+
+**Aspiring Data Analyst 
+
+<br/>
+
+---
+
+</div>
+
+## 🛠️ Technical Arsenal
+
+<div align="center">
+
+### Core Languages
 
 <p>
-  <img src="https://img.shields.io/badge/Computer%20Engineering-%40NMIMS%20Mumbai-teal?style=flat-square&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Aspiring-Data%20Analyst-blue?style=flat-square" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/AI%2FML-Enthusiast-orange?style=flat-square" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/📍-Mumbai%2C%20India-lightgrey?style=flat-square" />
+  <img src="https://skillicons.dev/icons?i=python,java,mysql,html,css" />
+</p>
+
+### Tools & Frameworks
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 </div>
 
 ---
 
-## 🛠️ Technical Arsenal
-
-### 💻 Core Languages
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,html,css" />
-</p>
-
-### 📊 Frameworks & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,mysql,vscode" />
-</p>
-
----
-
-## 🌟 Featured Projects
+## ✦ Featured Projects
 
 <div align="center">
 
-| 🌱 AgroSnap | 🍽️ FEFO Inventory |
+| 🌱 AgroSnap | 🌊 DeepSea eDNA |
 |:---:|:---:|
-| AI-powered crop diagnosis system | Smart inventory system with FEFO logic |
-| `Python` `AI` | `Java` `Spring Boot` |
+| AI-powered crop diagnosis system | ML pipeline for biodiversity detection |
+| `Python` · `AI` | `Python` · `ML` |
 
-| 🌊 DeepSea eDNA Analysis | 🤖 CuraSense |
+| 🍽️ FEFO Inventory | 📊 CuraSense |
 |:---:|:---:|
-| ML pipeline for biodiversity detection | Intelligent data analysis system |
-| `Python` `ML` | `Python` |
+| Smart inventory system with FEFO logic | End-to-end data analysis project |
+| `Java` · `Spring Boot` | `Python` |
 
-| 🌐 Axios Automated Network Intelligence | |
+| 🤖 Axios Automated Network Intelligence | |
 |:---:|:---:|
-| Automated network intelligence platform | |
+| Automated network intelligence system | |
 | `Python` | |
 
 </div>
 
 ---
 
-## 📈 Project Highlights
-
-- 🔁 Built **end-to-end data pipelines** from ingestion to insight
-- 🤖 Applied **machine learning** to real-world environmental & health datasets
-- 🧠 Designed **data-driven decision systems** for practical impact
-- 🔌 Worked with **APIs, databases, and analytics** tools
-
----
-
 ## 📊 Proficiency Overview
 
+<div align="center">
+
 | Domain | Focus Area |
-|---|---|
-| Programming | Python, Java |
-| Data Analysis | Pandas, NumPy |
-| Databases | SQL |
-| Visualization | Excel, Power BI *(Learning)* |
+|:---|:---|
+| **Programming** | Python, Java |
+| **Data Analysis** | Pandas, NumPy |
+| **Databases** | SQL, MySQL |
+| **Visualization** | Excel, Power BI *(Learning)* |
+| **Version Control** | Git, GitHub |
+
+</div>
 
 ---
 
-## 🎯 Current Focus
+## 🌟 Project Highlights
 
-```text
-📊 Data Analysis & Visualization
-🏗️  Building a strong project portfolio
-💼  Preparing for Data Analyst internships
+- 🔬 Built **end-to-end data pipelines** for real-world ML tasks
+- 🌿 Applied **machine learning to environmental & agricultural datasets**
+- 📦 Designed **data-driven inventory decision systems**
+- 🔗 Worked with **APIs, databases, and analytical tools**
+
+---
+
+## 🎯 Currently Exploring
+
+```
+📈  Data Analysis & Visualization
+🧠  Machine Learning & AI applications
+💼  Building a strong portfolio for Data Analyst internships
 ```
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Leadership & Community
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/khushi-shetty05/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:khushi2005shetty@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+- 📡 Active contributor to tech communities in Mumbai
+- 🌐 Passionate about open-source and collaborative learning
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khushi2005shetty@gmail.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khushi-shetty05/)
+
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=00c9a7&style=flat-square&label=PROFILE+VIEWS" />
+
+![Profile Views](https://komarev.com/ghpvc/?username=khushishetty05&color=00C9A7&style=flat-square&label=PROFILE+VIEWS)
+
+*"Turning data into decisions, one project at a time."*
+
 </div>
