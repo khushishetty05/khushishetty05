@@ -1,11 +1,10 @@
 <div align="center">
-<h1 align="center">KHUSHI SHETTY</h1> 
+<h1 align="center" color=blue>KHUSHI SHETTY</h1> 
 
-<br/>
 
 🎓 **Computer Engineering Student** &nbsp;|&nbsp; 📍 Mumbai, India
 
-Aspiring Data Analyst 
+📊Aspiring Data Analyst 
 
 <br/>
 
