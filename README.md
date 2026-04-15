@@ -1,67 +1,104 @@
-# 👋 Hi, I'm Khushi Shetty
+<h1 align="center">KHUSHI SHETTY</h1>
 
-🎓 Computer Engineering Student
-📊 Aspiring Data Analyst | AI/ML Enthusiast
-📍 Mumbai, India
-
----
-
-## 🚀 Technical Arsenal
-
-### 💻 Core Skills
-
-| Domain        | Skills                     |
-| ------------- | -------------------------- |
-| Programming   | Python, Java               |
-| Data Analysis | Pandas, NumPy              |
-| Databases     | SQL                        |
-| Visualization | Excel, Power BI (Learning) |
+<p align="center">
+  🎓 Computer Engineering @ NMIMS Mumbai
+</p>
+<p align="center">
+  Aspiring Data Analyst &nbsp;|&nbsp; AI/ML Enthusiast
+</p>
 
 ---
 
-### 🛠 Tools & Technologies
+## 🛠️ Technical Arsenal
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,mysql,java,git,github" />
+### Core Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,html,css" />
+</p>
+
+### Frameworks & Infrastructure
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,spring" />
 </p>
 
 ---
 
 ## 🌟 Featured Projects
 
-| 🌱 AgroSnap              | 🍽️ FEFO Inventory               |
-| ------------------------ | -------------------------------- |
-| AI crop diagnosis system | Inventory system with FEFO logic |
-| Python, AI               | Java, Spring Boot                |
-
-| 🌊 DeepSea eDNA               | 📊 CuraSense          |
-| ----------------------------- | --------------------- |
-| ML for biodiversity detection | Data analysis project |
-| Python, ML                    | Python                |
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <strong>🌱 AgroSnap</strong><br/>
+      AI platform for instant agricultural diagnostics<br/><br/>
+      <code>Python</code> &nbsp;•&nbsp; <code>AI</code>
+    </td>
+    <td align="center" width="50%">
+      <strong>🍽️ FEFO Inventory System</strong><br/>
+      Inventory management system with FEFO logic<br/><br/>
+      <code>Java</code> &nbsp;•&nbsp; <code>Spring Boot</code>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <strong>🌊 DeepSea eDNA Analysis</strong><br/>
+      ML pipeline for marine biodiversity detection<br/><br/>
+      <code>Python</code> &nbsp;•&nbsp; <code>ML</code>
+    </td>
+    <td align="center" width="50%">
+      <strong>📊 CuraSense</strong><br/>
+      Data analysis project for healthcare insights<br/><br/>
+      <code>Python</code> &nbsp;•&nbsp; <code>Data Analysis</code>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <strong>🤖 Axios Automated Network Intelligence</strong><br/>
+      Automated network intelligence system<br/><br/>
+      <code>Python</code> &nbsp;•&nbsp; <code>Automation</code>
+    </td>
+    <td align="center" width="50%">
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📊 Project Highlights
+## 📊 Proficiency Overview
 
-* Built **end-to-end data pipelines**
-* Applied **machine learning to real-world datasets**
-* Designed **data-driven decision systems**
-* Worked with **APIs, databases, and analytics**
+| Domain | Focus Area |
+|--------|------------|
+| Programming | Python, Java |
+| Data Analysis | Pandas, NumPy, SQL |
+| Databases | SQL, MySQL |
+| Web Dev | HTML, CSS |
+| Visualization | Excel, Power BI *(Learning)* |
 
 ---
-
 
 ## 🎯 Current Focus
 
-* Data Analysis & Visualization
-* Building strong portfolio projects
-* Preparing for Data Analyst internships
+- Data Analysis & Visualization
+- Building strong portfolio projects
+- Preparing for Data Analyst internships
 
 ---
 
-## 📫 Connect
+## 📬 Connect With Me
 
-* LinkedIn: https://www.linkedin.com/in/khushi-shetty05/
-* Email: khushi2005shetty@gmail.com
+<p align="left">
+  <a href="mailto:khushi2005shetty@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/khushi-shetty05/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VIEWS&color=0e75b6&style=flat" />
+</p>
