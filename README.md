@@ -82,17 +82,11 @@
 
 ---
 
+
+
 ## 📬 Connect With Me
 
-<p align="left">
-  <a href="mailto:khushi2005shetty@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/khushi-shetty05/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+ <p align="left"> <a href="mailto:khushi2005shetty@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> &nbsp; <a href="https://www.linkedin.com/in/khushi-shetty05/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p> 
 
 ---
 
