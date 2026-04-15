@@ -1,9 +1,4 @@
-<div align="center">
-
-<h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Khushi+Shetty" alt="Typing SVG" />
-</h1>
-<p align="center"> 🎓 Computer Engineering @ NMIMS Mumbai </p> <p align="center"> Aspiring Data Analyst &nbsp;|&nbsp; </p> 
+<h1 align="center">KHUSHI SHETTY</h1> <p align="center"> 🎓 Computer Engineering @ NMIMS Mumbai </p> <p align="center"> Aspiring Data Analyst &nbsp;|&nbsp; AI/ML Enthusiast </p> 
 
 <p>
   <img src="https://img.shields.io/badge/Computer%20Engineering-%40NMIMS%20Mumbai-teal?style=flat-square&logoColor=white" />
