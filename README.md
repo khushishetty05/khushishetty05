@@ -1,4 +1,4 @@
-<h1 align="center">KHUSHI SHETTY</h1>
+<h1 align="center" color="purle">KHUSHI SHETTY</h1>
 
 <p align="center">
   🎓 Computer Engineering @ NMIMS Mumbai
