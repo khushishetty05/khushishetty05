@@ -1,9 +1,9 @@
-<h1 align="center">KHUSHI SHETTY</h1>
+<div align="center"><h1 align="center">KHUSHI SHETTY</h1>
 
 🎓 **Computer Engineering Student** &nbsp;|&nbsp; 📍 Mumbai, India
 
 📊Aspiring Data Analyst 
-
+</div> 
 ---
 
 ## 🛠️ Technical Arsenal
