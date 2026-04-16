@@ -79,9 +79,9 @@
 
 ## 🎯 Current Focus
 
-- Data Analysis & Visualization &nbsp;&nbsp;
-- Building strong portfolio projects &nbsp;&nbsp;
-- Preparing for Data Analyst internships
+&nbsp;&nbsp;• Data Analysis & Visualization<br/>
+&nbsp;&nbsp;• Building strong portfolio projects<br/>
+&nbsp;&nbsp;• Preparing for Data Analyst internships
 
 </div>
 
