@@ -21,9 +21,9 @@
 </p>
 
 ---
-<div align="center">
-## 🌟 Featured Projects
 
+## 🌟 Featured Projects
+<div align="center">
 <table>
   <tr>
     <td align="center" width="50%">
