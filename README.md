@@ -64,15 +64,15 @@
 
 
 ## 📊 Proficiency Overview
-
-| Domain | Focus Area |
-|--------|------------|
-| Programming | Python, Java |
-| Data Analysis | Pandas, NumPy, SQL |
-| Databases | SQL, MySQL |
-| Web Dev | HTML, CSS |
-| Visualization | Excel, Power BI *(Learning)* |
-
+<div align="center">
+  | Domain | Focus Area |
+  |--------|------------|
+  | Programming | Python, Java |
+  | Data Analysis | Pandas, NumPy, SQL |
+  | Databases | SQL, MySQL |
+  | Web Dev | HTML, CSS |
+  | Visualization | Excel, Power BI *(Learning)* |
+</div>
 ---
 
 
