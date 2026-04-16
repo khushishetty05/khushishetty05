@@ -15,12 +15,13 @@
 </p>
 
 ### Frameworks & Infrastructure
-
+<div align="center">
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,git,github,spring" />
 </p>
 
 ---
+</div>
 
 ## 🌟 Featured Projects
 <div align="center">
@@ -59,11 +60,12 @@
     </td>
   </tr>
 </table>
-</div>
 ---
+</div>
+
 
 ## 📊 Proficiency Overview
-
+<div align="center">
 | Domain | Focus Area |
 |--------|------------|
 | Programming | Python, Java |
@@ -73,19 +75,20 @@
 | Visualization | Excel, Power BI *(Learning)* |
 
 ---
+</div>
 
 ## 🎯 Current Focus
-
+<div align="center">
 - Data Analysis & Visualization
 - Building strong portfolio projects
 - Preparing for Data Analyst internships
 
 ---
-
+</div>
 
 
 ## 📬 Connect With Me
-
+<div align="center">
  <p align="left"> <a href="mailto:khushi2005shetty@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> &nbsp; <a href="https://www.linkedin.com/in/khushi-shetty05/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p> 
 
-
+</div>
