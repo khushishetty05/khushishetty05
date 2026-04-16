@@ -21,7 +21,7 @@
 </p>
 
 ---
-
+<div align="center">
 ## 🌟 Featured Projects
 
 <table>
@@ -59,7 +59,7 @@
     </td>
   </tr>
 </table>
-
+</div>
 ---
 
 ## 📊 Proficiency Overview
