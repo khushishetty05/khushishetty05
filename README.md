@@ -3,6 +3,7 @@
 <h1 align="center">KHUSHI SHETTY</h1>
 
 🎓 Computer Engineering Student, NMIMS &nbsp;|&nbsp; 📍 Mumbai, India
+
 📊 Aspiring Data Analyst
 
 ---
