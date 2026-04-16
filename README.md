@@ -64,7 +64,7 @@
 
 
 ## 📊 Proficiency Overview
-<div align="center">
+
   | Domain | Focus Area |
   |--------|------------|
   | Programming | Python, Java |
@@ -72,7 +72,6 @@
   | Databases | SQL, MySQL |
   | Web Dev | HTML, CSS |
   | Visualization | Excel, Power BI *(Learning)* |
-</div>
 ---
 
 
