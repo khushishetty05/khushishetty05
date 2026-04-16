@@ -75,13 +75,15 @@
 
 ---
 
+<div align="center">
+
 ## 🎯 Current Focus
 
-- Data Analysis & Visualization
-- Building strong portfolio projects
+- Data Analysis & Visualization &nbsp;&nbsp;
+- Building strong portfolio projects &nbsp;&nbsp;
 - Preparing for Data Analyst internships
 
----
+</div>
 
 ## 📬 Connect With Me
 
